@@ -1,4 +1,4 @@
-<img width="auto" src="https://i.ibb.co/DK2S96x/bnnr.png">
+<img width="auto" src="https://i.ibb.co/V9gnWMk/Sem-T-tulo-1.png">
 
 
 # Jonata Santos
@@ -7,7 +7,7 @@
 Sou trabalho com desenvolvimento de software para Web e Mobile, adoro estar por dentro das novas tecnologias.
 Sou um FullStack Desenvolvedor :Web:
 
-- 🛄 &nbsp; Trabalho a mais de **10 anos** com Desenvolvimento
+ 🛄 &nbsp; Trabalho a mais de **10 anos** com Desenvolvimento
  <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End (Bootstrap, React, Angular, Grid Layout, Responsividade )
  <br/> :blush: &nbsp; Em Back-End pussuo conhecimento específico em **Javascript** e **PHP**
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript

@@ -5,7 +5,8 @@
 
 ## Olá pessoal 😄
 Sou desenvolvedor de software para Web e Mobile, adoro estar por dentro das novas tecnologias.
-Sou um FullStack :Web: **Developer**
+<br />
+Sou um FullStack **Web Developer**
 
  🛄 &nbsp; Trabalho a mais de **10 anos** com Desenvolvimento
  <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End (Bootstrap, React, Angular, Grid Layout, Responsividade )

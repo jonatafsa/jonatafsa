@@ -1,4 +1,12 @@
-![jonata ra](https://github-readme-stats.vercel.app/api?username=jonatafsa&show_icons=true&theme=radical) 
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatafsa&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatafsa&layout=compact&show_icons=true&theme=radical" /> |
+| ------------- | ------------- |
+
+ <section>
+ 
+ | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jonatafsa&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonatafsa&show_icons=true&theme=radical" /></a> |
+| ------------- | ------------- |
+ 
+ </section>
 
 ## Olá pessoal, meu nome é Jonata Santos
 Sou desenvolvedor de software para Web e Mobile, adoro estar por dentro das novas tecnologias.

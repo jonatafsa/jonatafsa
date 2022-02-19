@@ -1,14 +1,9 @@
-<img width="auto" src="https://i.ibb.co/V9gnWMk/Sem-T-tulo-1.png">
+![jonata ra](https://github-readme-stats.vercel.app/api?username=jonatafsa&show_icons=true&theme=radical) 
 
-
-# Jonata Santos
-
-## Olá pessoal 😄
+## Olá pessoal, meu nome é Jonata Santos
 Sou desenvolvedor de software para Web e Mobile, adoro estar por dentro das novas tecnologias.
 <br />
 Sou um FullStack **Web Developer**
-
-![jonata ra](https://github-readme-stats.vercel.app/api?username=jonatafsa&show_icons=true&theme=radical) 
 
  🛄 &nbsp; Trabalho a mais de **10 anos** com Desenvolvimento
  <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End (Bootstrap, React, Angular, Grid Layout, Responsividade )

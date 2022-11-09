@@ -14,8 +14,8 @@ Sou desenvolvedor de software para Web e Mobile, adoro estar por dentro das nova
 Sou um FullStack **Web Developer**
 
  🛄 &nbsp; Trabalho a mais de **10 anos** com Desenvolvimento
- <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End (Bootstrap, React, Angular, Grid Layout, Responsividade )
- <br/> :blush: &nbsp; Em Back-End pussuo conhecimento específico em **Javascript** e **PHP**
+ <br/> :purple_heart: &nbsp; Dentre principais tecnologias, destaco em Front-End (Reactjs, Angular, Grid Layout, Responsividade)
+ <br/> :blush: &nbsp; Em Back-End pussuo conhecimento específico em **Javascript(node)** e **PHP**
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Aficcionado por novas tecnologias, e Gamer Casual, também [pussuo um canal de Games na Twitch](https://www.twitch.tv/feargamesjs)
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JonataSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonata-rodrigues-41b250191/)](https://www.linkedin.com/in/jonata-rodrigues-41b250191/) 
